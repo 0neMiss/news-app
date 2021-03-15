@@ -1,9 +1,9 @@
 {
-    "employeeOfTheMonth":{
+    "employeeOfTheMonth": {
         "name": "Jordan Shehane",
         "position": "Full Stack Web Developer",
         "image": "https://github.com/0neMiss.png",
         "description": "Full Stack Web Developer for company name"
     }
-    
+
 }
